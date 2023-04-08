@@ -1,10 +1,12 @@
 ## TemperFlow
 
+This repository stores the code files for the article [Efficient Multimodal Sampling via Tempered Distribution Flow](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2198059) by Yixuan Qiu and Xiao Wang.
+
+### Workflow
+
 We provide two implementations of the TemperFlow algorithm,
 one using the PyTorch framework (in the `torch` folder),
 and the other using the TensorFlow framework (in the `tf` folder).
-
-### Workflow
 
 The workflow to reproduce the results and plots in the article is as follows:
 
