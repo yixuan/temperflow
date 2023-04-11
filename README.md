@@ -67,3 +67,20 @@ R:
 - kernlab 0.9.31
 - nor1mix 1.3.0
 - copula 1.1.0
+
+### Citation
+
+Please consider to cite our work if you find our algorithm or
+software useful in your research.
+
+```
+@article{qiu2023efficient,
+  title={Efficient Multimodal Sampling via Tempered Distribution Flow},
+  author={Qiu, Yixuan and Wang, Xiao},
+  journal={Journal of the American Statistical Association},
+  number={just-accepted},
+  year={2023},
+  publisher={Taylor \& Francis},
+  doi = {10.1080/01621459.2023.2198059}
+}
+```
