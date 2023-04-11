@@ -1,6 +1,6 @@
 ## TemperFlow <img src="https://statr.me/images/sticker-temperflow.png" alt="LBFGS++" height="150px" align="right" />
 
-This repository stores the code files for the article [Efficient Multimodal Sampling via Tempered Distribution Flow](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2198059) by Yixuan Qiu and Xiao Wang.
+This repository stores the code files for the article [Efficient Multimodal Sampling via Tempered Distribution Flow](https://arxiv.org/abs/2304.03933) by Yixuan Qiu and Xiao Wang.
 
 ### Workflow
 
